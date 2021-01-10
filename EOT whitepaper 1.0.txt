@@ -1,0 +1,317 @@
+EOT
+Cloud storage + DEFI financial smart contract platform based on Ethereum 2.0
+
+introduction
+
+As we enter the "blockchain era", one of the most popular words is blockchain technology. Subsequently, various "blockchain+" applications have sprung up, and the technological breakthroughs represented by the block chain have brought unlimited possibilities for innovation in various fields. When mobile payment meets the blockchain, what kind of spark will it produce? How should blockchain technology empower the financial market?
+With the rapid development of the era of big data, the digital currency trading market has become increasingly fierce. If you stand still, you will be eliminated. The application of blockchain technology is in full swing, and various industries have deployed. At present, the blockchain field has gradually developed some product solutions and empowered the real economy, but applications that really land and standardize implementation are scarce. EOT, which was born with the goal of "empowering the ETH 2.0 ecosystem", has successfully broken through many excellent projects and has been widely recognized, and is inextricably linked to its own team capabilities and strategic planning.
+Blockchain technology is the best technical solution for traditional payment mode, mobile payment, and transaction system data construction. EOT takes the unique advantages of the blockchain to the extreme, rapidly promotes the application of the blockchain, and forms a complete industry ecosystem based on the blockchain, which will extensively and profoundly change people's lifestyles.
+
+1. Project background
+
+1.1 2020, the year of rapid global blockchain development
+
+In the past few years, blockchain has attracted worldwide attention due to its huge application prospects and has become a global "arms" contest. In 2020, the development of blockchain and related industries will accelerate. The world is embracing the "blockchain economy era", and more mature applications will accelerate to land. It is unavoidable that the blockchain will redefine the world.
+In 2020, the world is changing and your cognition needs to be upgraded urgently.
+Block chain is the hottest new era technology topic. It integrates distributed data storage, point-to-point transmission, consensus mechanism, encryption algorithm and other computer technologies. It is considered to be another subversive innovation in the Internet era. Because of its huge breakthroughs in data storage and information transmission, it is likely to fundamentally change the existing economic and financial operation mode, and may even cause a new technological innovation and industrial transformation on a global scale.
+To put it simply, the blockchain is a machine that initiates trust, and is the infrastructure that realizes the Internet to the Internet of Value. In the digital economy and social environment bred by the blockchain, in 2018, the demons danced wildly, with zero coins everywhere, and countless waves. In 2020, the blockchain industry will break the false slogans of the blockchain boom and reshape trust value, which will attract more and more investors to embrace the blockchain.
+
+1.2 Advantages of Blockchain
+
+Can not be tampered with
+Immutability is formed based on the unique ledger of "block+chain": the blocks with transactions are continuously added to the end of the chain in chronological order. Once the information is verified and added to the blockchain, it will be permanently stored. Unless more than 51% of the nodes in the system can be controlled at the same time, the modification of the database on a single node is invalid, so the data stability of the blockchain And the reliability is extremely high. Once the information of the blockchain system is verified and added to the blockchain, the data on the chain is backed up in each network node and will not be deleted, resulting in a very high cost of attacking the entire network, so the blockchain network The data in has the advantages of being difficult to tamper with and uniquely credible.
+
+Hidden security
+Although all data recording and update operations in the blockchain system are open to the entire network nodes, the private information of its traders is processed through hash encryption, that is, data exchanges and transactions are anonymous ongoing. In simple terms, encryption is the process of converting the original information through an algorithm, and the recipient of the information can decrypt the ciphertext with the secret key to obtain the original text. Blockchain uses many mature encryption algorithms to ensure the reliability and security of the system.
+
+Openness
+Based on the blockchain system using open source programs, open rules and high participation, in addition to the private information of the parties to the transaction is encrypted, the data of the blockchain is open to everyone, and anyone can understand the block through the open interface Link data and development related applications, the entire system information is highly transparent.
+
+Autonomy
+The blockchain adopts consensus-based specifications and protocols (such as a set of open and transparent algorithms) so that all nodes in the entire system can exchange data freely and securely in a trustless environment, so that the trust in "people" is changed to The trust of the machine, any human intervention does not work.
+
+distributed
+The distributed feature of blockchain is also called decentralization, which is the most basic feature of blockchain. In the traditional centralized network system, the destruction of a central node can paralyze the entire system. For the blockchain network, due to the use of distributed accounting and storage, there is no centralized hardware or management organization, and the right of any node And obligations are equal. The data blocks in the system are jointly maintained by nodes with maintenance functions in the entire system. At this time, attacking a node cannot destroy the entire network.
+
+1.3 The value of blockchain: machine trust, value transfer, smart contract
+
+What is the value of the resulting blockchain? In fact, this can be concluded from the characteristics of the blockchain: decentralization, peer-to-peer transactions, and non-tamperable characteristics can realize machine trust; the characteristics of irreversible transactions and information encryption can realize value transfer, and the information is point-to-point and cannot be tampered with. You can also implement smart contracts.
+
+Machine trust
+For example, on the blockchain, there is no third-party central organization, and it completely relies on peer-to-peer, non-tamperable transaction mechanisms to ensure mutual trust. The immutable nature of blockchain technology has changed the way of centralized credit creation, reducing costs and establishing credit through mathematical principles rather than centralized credit institutions.
+
+Value transfer
+Blockchain is the first network that can realize value transmission: on the one hand, simple value transmission allows digital assets to circulate freely on the blockchain; on the other hand, the issuance of tokens makes financing more convenient and holds People can also enjoy the services of the entire ecosystem (for example, a pass is generated based on a blockchain application, and having a pass means having application services).
+
+Smart contract
+This clause is recorded in computer language rather than legal language. It refers to the combination of electronic contract and blockchain technology. When a pre-programmed condition is triggered, the smart contract executes the corresponding contract clause.
+
+1.4 Ethereum 2.0
+
+ETH2.0 refers to a set of interconnected upgrades that will make Ethereum more scalable, secure and sustainable. These upgrades are built by multiple teams in the Ethereum ecosystem.
+
+Vision
+In order to make Ethereum mainstream and serve all mankind, we must make Ethereum more scalable, secure and sustainable.
+
+More scalable
+Ethereum needs to support 1,000 transactions per second to make applications faster and cheaper to use.
+
+safer
+Ethereum needs to be more secure. As the adoption of Ethereum continues to grow, the protocol needs to become more secure and resistant to all forms of attack.
+
+More sustainable
+Ethereum needs to be better for the environment. Today's technology requires too much computing power and energy.
+
+2. Industry pain points
+
+1. Industry background of data cloud storage
+
+Cloud storage is a new concept extended and developed from the concept of Cloud Computing. It refers to the collection of a large number of different types of storage devices in the network through functions such as cluster applications, network technology or distributed file systems. Work together to provide external data storage and business access functions. Cloud storage is a cloud computing system with data storage and management as its core. To put it simply, cloud storage is the sharing of storage resources in one storage space. Users can access the space through any network-connected device at any time and place.
+
+2. Data cloud storage market size
+
+Since 2010, the global public cloud market revenue has been on the rise.
+
+3. Scale and forecast of personal cloud storage users
+
+From the perspective of the personal cloud storage market, the number of users is close to 3 billion, and the market space is huge. Such a large number of users also puts forward higher requirements for online disk service providers. Only by forming technological leadership, providing more personalized services, and projects with strong financial strength can finally win in the market competition.
+
+4. Industry pain points
+
+Although traditional cloud storage has the advantages of convenience, speed, and relatively low cost, its own mechanism and storage method still have many risks and hidden dangers:
+
+4.1 Privacy disclosure issues
+
+Cloud storage users can quickly upload the audio, video and other files in the device to the network disk at any time according to their own preferences, which not only saves the space of the mobile device, but also can quickly access the content in the network disk when needed. But in fact, the administrator of the network disk can directly view and delete files uploaded by users from the server platform. In view of this management mechanism, user privacy is prone to leakage.
+
+4.2 The data coverage is strong, and the repair ability is not enough
+
+Multi-client data stored in the cloud is generally subject to the last update, and other clients are automatically synchronized. When the user saves the file update and finds that the editing is wrong and wants to return to the file version before the modification, he may find that the file copy has been incorrectly updated in the cloud storage service that does not support version management. Similarly, if there is no additional backup for the accidentally deleted files, the data in the network disk will be permanently lost.
+
+4.3 Server security is not high
+
+Cloud storage servers have long been the primary target of hackers due to their special storage methods. A large amount of user data is stored on the server, and information hijacking of services of a large user group is an important source of income for hackers, which means that the security of the server directly affects the security of user data.
+
+4.4 Risk of termination of operation
+
+In the current Internet environment, cloud storage service providers provide public-facing cloud storage services, with an annual capital investment of hundreds of millions of dollars, and the profit model of private cloud storage is still unclear. The profit models of IM and Emai have matured, so related vendors can continue to be free, and the investment in cloud storage is at least ten times the sum of the former two. The primary issue of service integration between vendors and the formation of conventions is the distribution of benefits, so services Businesses may also shut down services due to poor management.
+
+3. Project introduction
+
+3.1 EOT-Ethereum 2.0 cloud storage + DEFI financial smart contract platform
+
+ETH2.0 will reshape the traditional Internet, and countless business myths will be born here!
+EOT originated from the CEPH global community, and will redefine distributed storage + DEFI finance and open a new era of development in the digital economy era. The CEPH open source protocol is one of the most widely used distributed storage protocols. Its community members include many Internet giants in the world, but the core fulcrum of value transmission is still missing in actual operation and cannot carry the great mission of the digital economy era. In the initial stage of Ethereum, due to the bottleneck of the PoW consensus mechanism, the CEPH community still retained a conservative attitude. With the development of the Ethereum ecosystem, especially the arrival of the ETH2.0 era, some development members of the CEPH global community began to deploy ETH2.0, starting from Layer2, formally integrating CEPH's excellent genes into the ETH2.0 ecology, and EOT was born.
+EOT is building a general-purpose, complete supporting function, high performance, convenience, good user experience, and extensible ETH 2.0 ecosystem based on enhanced DAG. Provide chain infrastructure and platform core technology algorithms and signature algorithms for cloud data value transmission applications, create original consensus and mining mechanisms, and gather in EOT to create an ecosystem.
+The EOT goal is to build an ecosystem that can truly realize value interconnection through technical support and community development, empower ETH2.0, and jointly promote social development. In a distributed storage network, EOT connects all computing devices with the same file system together. Content-based addresses replace domain-based addresses. Only the hash of the content needs to be verified. This can make web pages faster and more efficient. Safer and more robust. In terms of DEFI finance, EOT has opened up the construction of ETH2.0 pledged mining nodes, helping many participants share the unlimited development space of ETH2.0 in the future, and obtain stable, continuous, and generous benefits.
+In view of the low practicality of the existing blockchain infrastructure, the EOT R&D team put forward realistic and feasible solutions. Adopt a fair distribution mechanism, support third-party asset issuance, cross-chain communication, multi-chain integration and other functions, on-chain and off-chain data mapping mechanism, new enhanced data structure based on directed acyclic graph (DAG) and HashNet (HashNet) .
+In the world where EOT is widely used, any behavior and activity of people can realize automatic payment, automatic evaluation, automatic preservation, and automatic judgment of legitimacy. People can choose whether to preserve the behavior and activity of a lifetime. With the gradual evolution of artificial intelligence, virtual humans with complete individual consciousness and completely autonomous intelligence can be born. After people have completely transferred various assets in real life to the chain. The virtual person representing a human social individual will be preserved and evolve on the chain together with individual assets, realizing the virtual immortality of human society. This is the world after the information mapping and value mapping between the real world and the virtual world are fully realized after the complete integration of the EOT network and the blockchain.
+
+3.2 EOT Ecosystem
+
+EOT fully absorbs the advantages of existing blockchain outstanding projects, specifically solves their outstanding problems and technical defects, and builds a more prosperous application ecosystem. EOT innovatively designed the on-chain and off-chain data mapping mechanism, based on the new enhanced data structure of directed acyclic graph (DAG) and hash network (HashNet), with fast transaction confirmation, anti-quantum attack, node anonymous communication, transaction anonymity protection , Advanced smart contracts, data on-chain and other functional features, and through the adoption of a fair distribution mechanism to support third-party asset issuance, cross-chain communication, multi-chain integration and other functions.
+
+Our goal:
+-Solve the actual payment problem of digital currency and make the management of digital assets easier.
+-Build a global value Internet, and provide a basic blockchain network for value transmission applications.
+-Become an underlying public chain that can provide massive applications for the underlying operating system.
+-Build a liberalized multidimensional world that spans all walks of life.
+
+Our vision:
+-Use transparent and autonomous digital currency to facilitate EOT users around the world.
+-Support various practical applications to be implemented in the form of public chains, alliance chains, and private chains.
+-Includes all digital assets, covering all walks of life and life around the world.
+
+Our value:
+-Anchor the final value from the actual application.
+-Take the contract drainage model as an entry point and use technology for value circulation.
+-Form a complete industry ecosystem based on blockchain.
+
+3.3 The core advantages of EOT
+
+The application scenarios for EOT are no longer limited to the digital currency application represented by Bitcoin in the context of blockchain 1.0, not limited to the financial field where digital currency and smart contracts are combined in the context of blockchain 2.0, and not limited to blockchain 3.0 Application attempts in the fields of government, health, culture and art.
+The ETH 2.0 public chain based on EOT will form a complete industry ecosystem based on blockchain from the infrastructure of multiple industries, which will extensively and profoundly change people's lifestyles.
+-The EOT community has reasonable collocation and division of labor, strong technical research and development capabilities, strong marketing capabilities, and strong scenario landing capabilities, which can ensure that EOT realizes various features of the design.
+-As a technology provider, the EOT community has currently cooperated with a number of ecosystems that use blockchain technology to optimize and enhance existing business processes. The EOT infrastructure has been used in multiple practical application fields and scenarios, and is being developed and implemented .
+-The EOT community is actively building a partner alliance, striving to apply EOT to as many industries and practical scenarios as possible.
+-The EOT community is actively building a developer community to ensure that more technical talents join the improvement and optimization of the EOT infrastructure itself and the development of DAPP based on EOT at the technical level.
+-The EOT community is actively creating more communities for the popularization of blockchain technology and promoting the popularization of blockchain technology.
+
+4. Technical architecture
+
+As a complete industry ecosystem based on blockchain, EOT provides a complete development system and technical architecture for the entire blockchain technology ecosystem. EOT's own blockchain technology is universally proven and designed through a long-term practical test concept, which represents a fundamental advancement in blockchain technology. More importantly, the cornerstone role provided by EOT for the entire blockchain technology ecosystem is of milestone significance.
+
+4.1 Anonymous communication technology-P2P
+
+The EOT underlying communication network adopts a P2P architecture and an anonymous access mechanism between nodes is added to ensure the privacy protection of information services.
+P2P is the abbreviation of peer-to-peer, also known as peer-to-peer technology. It is a peer-to-peer network without a central server and relying on user group nodes for information exchange.
+Different from the traditional C/S central server structure, each user node in the P2P network is both a client and a server, and can serve as a server to provide services to other nodes at the same time.
+The characteristics of P2P network are as follows:
+Scalability In a P2P network, users can join and leave the network at any time. And with the addition of user nodes, the overall service capabilities of the system are correspondingly improved. For example, in P2P downloading, the more users join, the more resources are provided in the P2P network, and the download speed becomes faster.
+
+Robustness
+Since P2P does not have a centralized server, it is inherently resistant to attacks and high fault tolerance. Even if a certain node in the network is attacked or offline, it will not affect the normal operation of the entire system. Because every node in the P2P network can act as a server.
+
+Cost-effective
+A network with a P2P structure can effectively utilize a large number of scattered common user nodes in the Internet. Make full use of the idle CPU, bandwidth, and storage resources in these ordinary nodes to achieve the purpose of high-performance computing and mass storage. For example, BitTorren makes full use of the advantages of P2P technology to simply and effectively share the download pressure, thereby providing a cost-effective service. Similar to the SIA network disk.
+
+privacy protection
+In the P2P network, because the transmission of information is scattered among various nodes, there is no need to go through a central server. This reduces the risk of user privacy information being eavesdropped on and leaked.
+
+Load balancing
+In a P2P network, resources are scattered and stored on multiple nodes, and each node can act as a server. When a node needs to obtain resources, it only needs to send a request to neighboring nodes, which well realizes the load balance of the entire network.
+
+4.2 Data structure-DAG&HashNet
+
+DAG's current representative projects, the most well-known is undoubtedly the DAG three carriages-IOTA, Byte ball, Nano. As the latest distributed ledger competition technology, EOT adopts the basic DAG structure to store transaction data in the first stage.
+DAG (Directed Acyclic Graph) is the "directed acyclic graph". The transaction verification mechanism in the directed acyclic graph is also different from the blockchain. It uses the latter transaction to verify the previous transaction. In other words, if you want to make a transaction, you must first verify the previous transaction (specifically, you need to verify several transactions, which needs to be determined according to specific rules).
+The initiator submits its own transactions while verifying the transactions of others, thus weaving a decentralized network. If a transaction is not verified by subsequent transactions, it will lose its legitimacy in the entire system. Such a transaction verification mechanism enables DAG to conduct multiple transactions concurrently, and finally forms a tree-shaped topology structure diagram. This tree-shaped structure greatly improves the scalability and transaction speed of the entire system.
+Compared with traditional blockchain, DAG has the following unique advantages:
+Faster transaction speed
+Different from the blockchain technology, the biggest feature of DAG technology is that there are no blocks and the system does not need to generate blocks regularly, which obviously speeds up the transaction speed and realizes the simultaneous accommodation of massive concurrent transactions. And the more people involved in the transaction in DAG, the faster the transaction confirmation speed. This unique advantage is very beneficial to the subsequent rapid development of DAG.
+No transaction fees or very low transaction fees
+There is no such role as a miner in the DAG system. The consistency of the system is maintained by the transaction itself, that is, when each transaction is issued, it needs to verify the previously unconfirmed transaction and broadcast it to the entire network immediately to form an interconnected data network. In this way, transactions and verification are performed simultaneously, and the network can effectively maintain decentralization. DAG directly delegates the transaction confirmation link to the transaction itself, so it is possible to realize no-fee transactions.
+No need to mine, reducing resource waste
+According to research by Power Compare, 0.13% of the global electricity consumption is being used for Bitcoin mining. In DAG, there is no role of a miner, which does not generate a lot of hash calculations, which saves a lot of social resources, which is very important for the operation of the entire world.
+HashNet is a directed acyclic graph (DAG), which is composed of countless vertices and directed edges connecting the vertices. HashNet provides a novel solution to the calculation and communication difficulties of maintaining large public distributed ledgers. The key innovation is an efficient asynchronous distributed consensus protocol, and an appropriate design of a directed acyclic network structure.
+
+4.3 Consensus mechanism
+
+Consensus algorithm: double-POS (Proof of Stake & Proof of Storage). The POS consensus mechanism of ETH2.0 is used to open up the DEFI financial wealth channel; in addition, operations such as deposit, withdrawal, and calculation in the form of smart contract sending transactions consume a certain amount of EOT as GAS.
+Ecological support: ETH 2.0 ecosystem (based on Layer 2 solutions).
+Core technology: Ceph protocol, DAG&HashNet, cross-chain communication, multi-chain fusion, anti-quantum attack, digital signature algorithm.
+The POS (Proof of Storage) consensus algorithm regularly submits storage proof transactions to fulfill the contract. Each storage proof is for a specific contract, and storage proof does not require any input or output; only the contract ID and proof data are required.
+By taking the amount of acquired rights records in the past as a reference, the greater the amount of historical records, the greater the right to acquire accounting. In the past 1,000 record blocks, the more credit records are recorded, the greater the probability of obtaining the right to record information in the next block.
+In a certain period of time, whoever first calculates the Hash that meets the target value will get the right to bookkeeping first, and this will affect the difficulty of obtaining the right to record the next block.
+In a certain period of time in the future, if no next block is calculated, and at this time the node with more power calculates the block of the same height, the block of the node with the larger power is considered to be the longest chain.
+However, this mechanism is not always a powerful node, and continues to obtain record rights: other nodes (with smaller rights) who want to obtain the right to record data only need to increase the computing power, which increases the calculation speed and obtains the current record. The difficulty of rights is reduced; nodes with large rights may not be able to obtain the right to record before other nodes that have increased their computing power.
+Prove its storage by providing a part of the original file and a hash list in the Merkle tree of the file. This information is sufficient to prove that the section comes from the original file. Since the proof has been submitted to the blockchain, anyone can verify its validity or invalidity, and each storage proof uses a randomly selected segment.
+
+4.4 Hash and signature algorithms against quantum attacks
+
+Hash function
+Hash function (Hash Function) is a function widely used in encryption algorithm hash algorithm, also known as hash function or hash function. As a public function, the hash function can map a message M of any length into a shorter and fixed-length value H(M), which is called a hash value or a message digest (Message Digest). Hash operation is a one-way cryptosystem, that is, an irreversible mapping from plaintext to ciphertext. There is only an encryption process and no decryption process.
+Its function expression is: y=H(x). At the same time, the hash function has the three characteristics of collision resistance, privacy, and puzzle-friendliness. They have their own emphasis, but they are connected to each other.
+The Hash function H takes a variable-length data block M as input, and generates a fixed-length Hash value h=H(M). Call M the original image of H. Because H is a many-to-one mapping, there are multiple pre-images for any given Hash value H. If x≠y and H(x)=H(y) are satisfied, that is, two different inputs x and y produce the same output H(x)=H(y), it is called a collision. If no one can find a collision for the hash function H(x), then the function is said to have collision resistance.
+Stealth means that when the input r is selected from the probability distribution of a high-order minimum, it is impossible to determine x under the condition of a given H(r||x). Simply put, it is impossible to get input from output. Let y=H(x), if we know y, it is difficult to quickly find the x that meets the conditions, then the hash function H(x) is said to be concealed. Concealment means that it is almost impossible to find its inverse function x'=H'(y). In fact, there should be more than one x that satisfies the condition. Here, even one requirement of concealment cannot be found. This is because of the one-way nature of the hash function mentioned above. For a given hash value, it is not feasible under the amount of 2^128 hash calculations.
+If for any n-bit output value y, suppose k is selected from the high-order minimum distribution, if a feasible method cannot be found, find x in a much smaller time than the n-th power of 2, and guarantee H(k||x) =y is established, then we call the hash function H puzzle-friendly. In the search puzzle application, we will create a search puzzle, which is a mathematical problem that requires searching a huge space to find a solution. Simply put, it is required to have randomness. Any input can get a fixed-digit output. It is difficult to find any correlation between input and output. Even if the input is slightly adjusted, the output obtained is random, except through adjustment Enter the content for "violent trial calculation", there is no other better way.
+
+Digital signature algorithm
+The hash algorithm can ensure that the transaction data is not tampered with, but it cannot guarantee simultaneous replacement attacks on the data and the digest, and it cannot guarantee the non-repudiation of the transaction data. The digital signature algorithm involves tools such as public keys, private keys, and wallets. It has two functions:
+1. Prove that the message is indeed signed and sent by the sender of the information to ensure non-repudiation.
+2. Determine the integrity of the message. Digital signature technology is to encrypt the summary information with the sender's private key, and transmit it to the receiver together with the original text. The receiver can only use the sender's public key to decrypt the encrypted digest information, and then use a hash algorithm to generate a digest of the received original text and compare it with the decrypted digest information. If they are the same, it means that the received information is complete and has not been modified during transmission. Otherwise, it means that the information has been modified. Therefore, the digital signature can verify the integrity of the information and ensure the non-repudiation of the information.
+
+4.5 Cross-chain structure of EOT
+
+The development process of human society has gone through the primitive single tribe model, to the multi-tribe model, to different cultural habitats, and then to countries with different systems. The development of the Internet has also experienced the stand-alone era, simple interconnection of multiple computers, multiple LANs, and various heterogeneous LAN interconnections, then the global PC Internet at the end of the last century, and then the mobile Internet today. The development of the blockchain has evolved from the initial 1.0 era represented by Bitcoin, to the 2.0 era represented by Ethereum integrated with smart contracts, and to today's various multi-chain (cross-chain) blockchain products.
+
+Single-stranded structure
+Classical blockchain networks, such as Bitcoin network and Ethereum, adopt a single-chain structure, and all transactions and transactions are carried out on one chain. The advantage of the single chain structure is that the transaction and consensus process is relatively simple, and it can well meet the needs of users in the early development of the blockchain. However, with the development of blockchain technology and the increasing market demand for blockchain, the single-chain architecture has gradually exposed many unsolvable pain points:
+
+There are bottlenecks in overall throughput and performance
+Bitcoin has 7TPS and a confirmation mechanism that requires 6 blocks, and the interval of Ethereum 1.0 also takes 10-20 seconds, which seriously hinders the growing demand for blockchain business development.
+
+Interference between businesses within the chain
+The single-chain architecture is prone to congestion of the entire system due to the busyness of individual businesses. For example, the recent popularity of Crypto Kitties has made the entire Ethereum network congested, and many normal transactions cannot be processed and confirmed in time. .
+
+Closed network structure
+The cross-chain interaction between different chains cannot be realized, and the business interaction needs between multiple platforms cannot be met. Multi-chain structure In order to overcome the limitations of the single-chain structure, the multi-chain structure was proposed. The main forms include multiple parallel chains, main/side chains, etc., which partially meet the needs of business diversification, but still have flexibility and customization. It has a shortpart.
+For multiple parallel chains, the functions of each chain are usually preset, which is difficult to meet the rapidly changing and diversified business needs. At the same time, how to share computing and data resources on multiple chains has not been well resolved.
+For the main/side chain structure, different side chains can be derived according to business growth and changes, but the consensus of the side chain is closely coupled with the main chain, and the main chain may become a new center and bottleneck.
+
+5. Multi-domain ecological application of EOT of ETH2.0
+
+5.1 Cloud storage market based on Layer 2
+
+The Ethereum 2.0 ecology has passed the most dangerous technological development death valley curve, and is in the ascendant period of rapid development. In the future interconnected world, Ethereum based on a powerful ecosystem will not be ignored by the world and can even be ignored by the world. Internet industry. EOT is based on the Ethereum 2.0 ecology. Building a cloud storage market in Layer 2 is a strategy that is very beneficial to investors and users. It can be said that in the era of Ethereum 2.0, all traditional Internet businesses must be redone. EOT has benchmarked the trillion-scale cloud storage industry and will surely achieve great success.
+
+5.2 Building a distributed integrated social ecology
+
+On the EOT platform, users in any part of the world can communicate with each other and business without borders, and trade and exchange into legal currency through EOT TOKEN.
+Any individual or organization interested in a social network composed of users with strong authentication, high privacy, weak relationships, and strong personality can consider joining the EOT ecosystem and participating in ecological construction.
+EOT promises to open source authentication, privacy encryption, EOT wallet and other underlying protocols, codes, modules when appropriate, for system developers as long as they meet the relevant protocols, for APP developers as long as the embedded EOT module is connected to the EOT block Chain network. EOT will also assist other organizations in the ecology to write smart contracts on the chain to accelerate the DAPP development process.
+EOT will open the entire network analysis platform. Third-party organizations (such as advertisements) are welcome to directly use EOT data and valuable analysis results to directly target the most valuable users; third-party organizations are also welcome to provide services (such as: finance, Entertainment, e-commerce, etc.) to create value.
+Third-party individuals or organizations need to use EOT, based on the actual resources provided or consumed on the chain, using a fine-grained pricing method for transactions, similar to the method of cloud computing. Any organization or individual accesses the blockchain in the form of a blockchain node and does not enjoy any privileges.
+
+5.3 DEFI Finance and Distributed Transaction Application
+
+The DEFI financial application section of EOT has a distributed digital bank, legal currency transaction (OTC), spot/coin transaction, contract transaction, leveraged transaction, guessing the price, quantitative transaction and other one-stop service system, and its issued EOT pass The certificate is mainly used for transaction service fees, platform function expansion, and multiple rights and interests. The payment system supports three types of cross-border payment, on-site payment, and off-site payment to realize ecological value return, etc., and support cross-latitude payment methods.
+
+5.4 Multi-blockchain asset management
+
+One-stop management
+EOT manages multiple digital currencies in a unified wallet application. It not only supports the storage and management of mainstream assets such as Bitcoin and Ethereum, but also supports the standard agreements of multiple smart contract platforms, and rapidly increases the tokens issued based on each platform. While reducing the burden of user management, it also provides wallet service support for new projects, allowing the project team to focus more on core services.
+
+Decentralized service
+EOT adheres to the core essence of the blockchain and provides users with a decentralized digital currency storage solution. Wallet keys and all types of currency location private key information are stored in the user's local system. At the same time, EOT provides a convenient key backup solution-users only need to make a backup once, write down multiple words, and save them in a safe place.
+
+Multiple security guarantees
+In addition to allowing users to fully control the wallet keys, EOT also provides multi-signature technical guarantees and two-step authorization verification for digital asset management of different scales. Users can choose to verify mobile phone verification codes, fingerprints, and in vivo verification methods during transfer transactions. Fully guarantee the security of digital currency assets.
+
+6. Release plan
+
+Release name: EOT.
+Total issuance: 210 million pieces, and will never be issued.
+Distribution mechanism: DeFi cloud computing power mining 80%, community ecological construction 5%, technology development team 5%, DeFi ecological computing power 5%, market value management 3%, fund management 2%.
+
+7. Development plan
+
+The first stage: powder suction and drainage
+Establish a cloud storage smart contract platform based on the layer2 solution, divert traffic through the cloud computing power mining machine system, and build EOT multi-dimensional ecological application channels.
+
+The second stage of building an ecosystem
+Complete and improve the initial construction of the EOT ecosystem. EOT will promote the development of the community and provide third parties with smart contracts to establish relevant paths. Become a shareholder of the Ethereum network by staking ETH, obtain stable income and form a consensus.
+
+The third stage value landing
+Create an ETH 2.0 ecosystem that supports various cloud service applications on the chain and provide diversified cloud storage services. Promote the rapid development of EOT in the field of technology finance, becoming a listed company, incubating emerging technology entities, accessing the EOT ecosystem, and successfully landing various applications.
+
+8. Technical team
+
+8.1 EOT Foundation
+
+The EOT Foundation is a non-profit organization. The foundation is committed to the maintenance of the EOT community through the establishment of related departments, and manages the open source, community construction, and feature recommendations of the EOT; at the same time, it is committed to the project’s own finance, community construction, and external Relationships, etc., make the project run better.
+
+8.2 Community members
+
+The EOT team has many years of experience in the digital currency market. The following is the introduction of the team members:
+
+Sage Weill
+Core developer, PhD. The main research direction is distributed computing technology, one of the core developers of the Ceph protocol global community, presided over and participated in a number of high-level scientific research projects, has been engaged in P2P system architecture design, and has a deep understanding of the two-layer structure peer-to-peer computing topology.
+
+Rogie Michey
+Core architect, PhD. The main research direction is distributed storage, Ceph protocol developers, have a deep understanding of the scalability, reliability and elastic optimization of distributed systems, and have a deep understanding and practical experience in the underlying technology and working principles of the blockchain.
+
+Jack Loong
+Computer scientist, PhD in network security. Dedicated to the research of blockchain and network security, he has many years of research foundation in smart contracts and other aspects, and has published more than 20 SCI and EI academic papers.
+
+Andy Ko
+Doctor of Computer Technology. The research direction is machine learning and intelligent information processing, etc., engaged in large-scale information system and distributed application practice, and has rich experience in product development and system design. He started the research of blockchain earlier, has a deep understanding of the application and ecological construction of blockchain, and has published more than 20 high-level papers.
+
+Smith Zhang
+Master of Engineering, senior programmer and blockchain technology expert. He has worked in the system technology department of IBM (International Business Machines Corporation) for many years and has rich experience in Hadoop and MapReduce development. Contacted Bitcoin in 2012, familiar with cryptocurrency principles, storage docking solutions for exchange wallets, and currently focusing on smart contracts and blockchain applications.
+
+appendix
+
+risk warning
+
+There are various risks in the development, maintenance and operation of EOT, many of which are beyond the control of the EOT development community. In addition to the other content described in this white paper, participants are requested to fully understand and agree to accept the following risks.
+
+Market risk
+The price of EOT is inseparable from the situation of the entire digital currency market. If the market is generally down or there are other uncontrollable factors, it may cause EOT itself to have a good prospect, but the price is still undervalued for a long time.
+
+Regulatory risk
+Since the development of the blockchain is still in its early stage, there are no relevant regulatory documents related to the pre-requisites, transaction requirements, information disclosure requirements, and lock-in requirements in the fundraising process. Moreover, it is not clear how the current policy will be implemented. These factors may have an uncertain impact on the development and liquidity of the project. Blockchain technology has become the main target of supervision in all major countries in the world. If the supervision body intervenes or exerts influence, EOT may be affected by it. For example, if the law restricts the use, EOT may be restricted, hindered or even directly terminated EOT application and development.
+
+Competitive risk
+At present, there are many projects in the blockchain field and the competition is fierce. There is strong market competition and project operation pressure. Whether EOT can break through in many excellent projects is widely recognized. It is not only linked to its own community operation capabilities, strategic planning, etc., but also affected by many competitors in the market, and may face vicious competition.
+
+The risk of brain drain
+EOT originated from the Ceph protocol global community, so it has attracted experienced blockchain practitioners and technical developers with rich operations. In the future development, it is not ruled out that the core personnel of the community will leave and conflicts within the community will cause the EOT as a whole to be negatively affected. Project technology risk The accelerated development of cryptography or the development of technology such as the development of quantum computers may bring the risk of cracking to EOT, which may lead to the loss of EOT data. During the project update process, vulnerabilities may occur, and the vulnerabilities will be fixed in time after they are discovered, but there is no guarantee that they will not cause any impact. Other risks that are currently unknown In addition to the risks mentioned in this white paper, there are also some risks that EOT has not mentioned or anticipated. In addition, other risks may also appear suddenly or in a combination of multiple risks already mentioned. Participants are asked to fully understand the EOT background, understand the overall framework and ideas, and participate rationally before making participation decisions.
+
+Disclaimer
+This document is only used to convey information. The content of the document is for reference only and does not constitute any trading advice, abetting or solicitation at EOT. This document does not approve and is not understood to provide any trading behavior, nor is it any form of contract or promise. In view of unpredictable circumstances, the goals listed in this white paper may change. Although EOT will try its best to achieve all the goals of this white paper, all individuals and groups purchasing EOT will take their own risks. The content of the document may be adjusted accordingly in the new version of the white paper as the project progresses. The team will publish the updated content to the public by publishing announcements or the new version of the white paper on the website. This document is only used to convey information to specific objects who actively request to understand the project information, and does not constitute any future investment guidance, nor is it any form of contract or commitment.
+
+Note:
+a. The EOT involved in this project is a virtual digital code used in the transaction process, and does not represent project equity, income rights or control rights.
+b. Due to the many uncertainties in the digital currency itself (including but not limited to: the general environment for the regulation of digital currency in various countries, industry incentives and competition, and technical loopholes in the digital currency itself), the project will have certain risks.
+c. Although EOT will work hard to solve the problems that may be encountered in the process of project promotion, there are still policy uncertainties in the future. You must understand all aspects of the blockchain before supporting, and participate rationally under the premise of fully understanding the risks. EOT will strive to achieve the goals mentioned in the document, but due to the existence of force majeure, EOT cannot make a full commitment.
